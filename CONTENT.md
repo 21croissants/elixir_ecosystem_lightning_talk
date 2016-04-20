@@ -7,9 +7,6 @@ build-lists: true
 
 _**battle tested & optimized for devs happiness**_
 
-^ Hello / Bonjour! My name is Jean-Michel Garnier,
-Today, my goal is to share my excitement about the Elixir programming language.
-
 ---
 ![filtered](force.jpg)
 
@@ -41,7 +38,7 @@ community is like him, very friendly and welcoming
 ---
 - Functional
 - Erlang
-- Elixir syntax 
+- Pretty syntax 
 
 ^ Elixir in 1 slide;) 
 ^ Functional: list of buzz words: Pattern matching (awesome), Macros (if
