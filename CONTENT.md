@@ -8,8 +8,7 @@ build-lists: true
 _**battle tested & optimized for devs happiness**_
 
 ^ Hello / Bonjour! My name is Jean-Michel Garnier,
-I have been a ruby developer for the last 10 years. 
-Today, my goal is to share my joy and excitement about the Elixir language
+Today, my goal is to share my excitement about the Elixir programming language.
 
 ---
 ![filtered](force.jpg)
@@ -21,34 +20,36 @@ IN THE FORCE
 
 ^ I guess I am an early adopter:) I started with java in the past century! 1998
 
-^ Then in 2005, I found out about Rails. I will make it short, but java
-enterprise at the time was so XML XML XML. So I fell in love with Ruby. Since then,
+^ Then in 2005, I found out about Ruby and fell in love.
 I have been a happy Ruby developer for 10 years ...
 
 ^ But again, I felt a great disturbance in the force.
 Suddenly, all the alpha geeks with a beard I was following were all
 tweeting about Elixir. So, I started to read books, listen some podcast,
-watch some confs. And now, I am very excited about Elixir too, I have started to learn it.
+watch some confs, to buys some books. And now, I am very excited about Elixir too: I have started to learn it.
 I feel there is a great future coming for this language and Erlang VM.
 
 ---
 ![fit original](jose_valim.png)
 ### Jose Valim
 
-^ This is a picture of Jose Valim, the creator of Elixir. He is the one playing the guitar at Euruko 2011 in Berlin.
-^ He gave a talk at that conference about the 1st version of Elixir.
+^ This is the CREATOR of Elixir: Jose Valim. He is the one playing the guitar at Euruko 2011 in Berlin where he gave his 1st talk Elixir.
 ^ He is smart. Super smart.
 On top of that, Jose is a really good prompt, always ready to help and teach others. The elixir
-community is like him, very friendly.
+community is like him, very friendly and welcoming
 
 ---
 - Functional
-- Erlang: fast, concurrency, distributed :heart_eyes:
-- Erlang ! :cold_sweat:
-- Elixir syntax :panda_face: :gem:
+- Erlang
+- Elixir syntax 
 
 ^ Elixir in 1 slide;) 
-^ 
+^ Functional: list of buzz words: Pattern matching (awesome), Macros (if
+is a macro), Immutability, Pipes, much more to learn!
+^ Erlang: as fast as Erlang, can call Erlang functions with no cost.
+Battle tested for concurrency and distributed
+^ Erlang syntax is not optimized for devs hapiness. Elixir is, it also
+looks like Ruby ;)
 
 ---
 ```elixir
@@ -66,12 +67,12 @@ end
 ---
 ![fit](whatsapp.jpg)
 
-^ Erlang. More than 1B of active users. 50 software engineers. It's 30
-years old, older than most of you! battle tested!!!
+^ Erlang. More than 1B of active users. 15 backend software engineers. It's 30
+years old, older than most of you! Mature! battle tested!!!
 
 ---
 ### Phoenix Framework
-#### single chat room with 2 million users on a single machine
+#### chat room with 2 million users on 1 machine
 ![fit](phoenixframework-logo.png)
 
 ---
@@ -79,9 +80,9 @@ years old, older than most of you! battle tested!!!
 ![original](critical_mass.jpg)
 
 ---
-![fit](hex.png)
+![fit filtered](hex.png)
 
-^ 25M downloads all time 
+##25M downloads all time 
 
 ---
 ![](meetups.png)
@@ -91,30 +92,38 @@ years old, older than most of you! battle tested!!!
 ### Thursday, June 9
 ![fit](meetup.png)
 
+^ And I organize a meetup in Lyon. June, 9th
+
 ---
+## Conferences
 ![fit](conf_empex.png)
 ![fit](conf_eu.png)
 ![fit](conf_us.png)
 
 ---
-![original fit](fountain.png)
+![original fit filtered](fountain.png)
+## Podcast
 
 ---
+## Screencasts
 ![fit](screencast_sips.png)
 ![fit](screencast_learn_elixir.png)
 ![fit](screencast_excast.png)
 
 ---
+## Books
 ![fit](book_pragprog.png)
 ![fit](book_in_action.png)
 ![fit](book_phoenix.png)
 
 ---
-![fit](exercism.png)
+# Practice
+![fit filtered](exercism.png)
 
 [exercism.io](http://exercism.io/) by [Katrina Owen](@kytrinyx)
 
-^ Free
+^ It's free, open source and collaborative. If you remember 1 thing from
+talk: remember exercism.io Learn 30 languages, including Elixir!
 
 ---
 # [fit] Jobs?
