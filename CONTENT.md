@@ -19,7 +19,7 @@ A GREAT
 DISTURBANCE
 IN THE FORCE
 
-^ I guess I am an early adopter:) Back in 98 (past century!), I got very excited about Java. There were no jobs at the time, but I got a job
+^ I guess I am an early adopter:) I started with java in the past century! 1998
 
 ^ Then in 2005, I found out about Rails. I will make it short, but java
 enterprise at the time was so XML XML XML. So I fell in love with Ruby. Since then,
@@ -28,19 +28,18 @@ I have been a happy Ruby developer for 10 years ...
 ^ But again, I felt a great disturbance in the force.
 Suddenly, all the alpha geeks with a beard I was following were all
 tweeting about Elixir. So, I started to read books, listen some podcast,
-watch some confs. I am very excited about Elixir, I feel there is a
-great future coming for this language and Erlang VM. We will see!
+watch some confs. And now, I am very excited about Elixir too, I have started to learn it.
+I feel there is a great future coming for this language and Erlang VM.
 
 ---
 ![fit original](jose_valim.png)
 ### Jose Valim
 
-^ Jose Valim is the creator of Elixir. 
-This is a picture of him playing the guitar at Euruko 2011 in Berlin.
-
-^ He is still young, I bet he is only 30 or 32. He is smart. Super smart.
-On top of that, Jose is a good guy, always ready to help. The elixir
-community is like him, you will like it :)
+^ This is a picture of Jose Valim, the creator of Elixir. He is the one playing the guitar at Euruko 2011 in Berlin.
+^ He gave a talk at that conference about the 1st version of Elixir.
+^ He is smart. Super smart.
+On top of that, Jose is a really good prompt, always ready to help and teach others. The elixir
+community is like him, very friendly.
 
 ---
 - Functional
@@ -48,7 +47,8 @@ community is like him, you will like it :)
 - Erlang ! :cold_sweat:
 - Elixir syntax :panda_face: :gem:
 
-^Elixir in 1 slide;) 
+^ Elixir in 1 slide;) 
+^ 
 
 ---
 ```elixir
@@ -88,6 +88,7 @@ years old, older than most of you! battle tested!!!
 
 ---
 ## meetup.com/Lyon-Elixir
+### Thursday, June 9
 ![fit](meetup.png)
 
 ---
@@ -122,6 +123,6 @@ years old, older than most of you! battle tested!!!
 
 ---
 ## Thank you! :bow:
-### _**meetup.com/Lyon-Elixir**_
+### _**meetup.com/Lyon-Elixir**_ Thursday, June 9
 ### @21croissants
 
