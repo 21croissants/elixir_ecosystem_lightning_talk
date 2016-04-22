@@ -15,7 +15,7 @@ A GREAT
 DISTURBANCE
 IN THE FORCE
 
-^ I guess I am an early adopter:) I started with java in the past century! 1998
+^ I am an early adopter:) I started with java in the past century! 1998
 
 ^ Then in 2005, I found out about Ruby and fell in love.
 I have been a happy Ruby developer for 10 years ...
@@ -32,13 +32,13 @@ I feel there is a great future coming for this language and Erlang VM.
 
 ^ This is the CREATOR of Elixir: Jose Valim. He is the one playing the guitar at Euruko 2011 in Berlin where he gave his 1st talk Elixir.
 ^ He is smart. Super smart.
-On top of that, Jose is a really good prompt, always ready to help and teach others. The elixir
+On top of that, Jose is a really good person, always ready to help and teach others. The elixir
 community is like him, very friendly and welcoming
 
 ---
 - Functional
 - Erlang
-- Pretty syntax 
+- Prett*ier* syntax
 
 ^ Elixir in 1 slide;) 
 ^ Functional: list of buzz words: Pattern matching (awesome), Macros (if
